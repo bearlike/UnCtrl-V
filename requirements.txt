@@ -1,0 +1,4 @@
+wheel
+pysimplegui
+pywin32
+tqdm
